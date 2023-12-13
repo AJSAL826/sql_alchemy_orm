@@ -1,0 +1,1 @@
+"""Join tables with pivot table"""
